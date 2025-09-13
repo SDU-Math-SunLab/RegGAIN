@@ -3,7 +3,10 @@
 ## Introduction
 ---
 `RegGAIN` is a self-supervised graph contrastive learning framework for inferring GRNs by integrating scRNA-seq data with species-specific prior networks.
-<img src="./overview.jpg" alt="Overview" width="80%">
+<div align="center">
+  <img src="./overview.jpg" alt="Overview" width="80%">
+</div>
+
 
 ## Installation
 ---
