@@ -89,4 +89,5 @@ results = rg.run_reggain(
     config=config)
 ```
 ## Reference
-Guan et al. "Inferring gene regulatory networks from single-cell RNA sequencing data by dual-role graph contrastive learning"
+Qiyuan Guan, Jiating Yu, Jieyi Pan, Fan Yuan, Jiadong Ji, Rusong Zhao, Zhi-Ping Liu, Bingqiang Liu, Ling-Yun Wu, and Duanchen Sun. "Inferring gene regulatory networks from single-cell RNA sequencing data by dual-role graph contrastive learning". *Advanced Science*, 2025.<br>
+https://doi.org/10.1002/advs.202518277
